@@ -1,12 +1,12 @@
 ## LIBRARY MANAGEMENT SYSTEM
 This is a web application developed using Django, a high level Python web framework, for managing a library.The system provides basic CRUD (Create, Read, Update, Delete) functionalities for library resources.
 ## Features
-**Book Management:** We can add,edit and delete books with details such as title,author, genre and language.
-**User Management:** Manage library members with the ability to add,edit and remove user information.
+#### **Book Management:** We can add,edit and delete books with details such as title,author, genre and language.
+#### **User Management:** Manage library members with the ability to add,edit and remove user information.
 
 ### Prerequisites
--Python
--Django
+#### -Python
+#### -Django
 ### Installation
 #### 1.Clone the repository: 
 https://github.com/Saranya-789/Library_Management.git
