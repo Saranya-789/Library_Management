@@ -11,7 +11,7 @@ Manage library members with the ability to add,edit and remove user information.
 #### -Django
 ## Installation
 #### 1.Clone the repository: 
-https://github.com/Saranya-789/Library_Management.git
+[https://github.com/Saranya-789/Library_Management.git](https://github.com/Saranya-789/Library_Management_System.git)
 #### 2.Dependencies needed : 
 pip install django
 #### 3.Run the development server:
