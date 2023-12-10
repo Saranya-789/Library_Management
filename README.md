@@ -8,10 +8,10 @@ This is a web application developed using Django, a high level Python web framew
 -Python
 -Django
 ### Installation
-# 1.Clone the repository: https://github.com/Saranya-789/Library_Management.git
-# 2.Dependencies needed : pip install django
-# 3.Run the development server:python manage.py runserver
-# 4.Access the application at http://localhost:8000 in your web browser
+#### 1.Clone the repository: https://github.com/Saranya-789/Library_Management.git
+#### 2.Dependencies needed : pip install django
+#### 3.Run the development server:python manage.py runserver
+#### 4.Access the application at http://localhost:8000 in your web browser
 
 ## Usage
 Navigate to the admin panel at http://localhost:8000/admin to manage books, users, and other resources.
