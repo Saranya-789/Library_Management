@@ -6,10 +6,10 @@ We can add,edit and delete books with details such as title,author, genre and la
 #### **User Management:**
 Manage library members with the ability to add,edit and remove user information.
 
-### Prerequisites
+## Prerequisites
 #### -Python
 #### -Django
-### Installation
+## Installation
 #### 1.Clone the repository: 
 https://github.com/Saranya-789/Library_Management.git
 #### 2.Dependencies needed : 
